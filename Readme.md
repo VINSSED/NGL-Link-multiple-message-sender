@@ -18,4 +18,4 @@ All you need is Node js installed on your system
 ```
 
 - open terminal in this folder
-- run the script `npm start` command
+- run the script by `npm start` command
