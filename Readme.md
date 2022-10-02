@@ -19,3 +19,5 @@ All you need is Node js installed on your system
 
 - open terminal in this folder
 - run the script by `npm start` command
+
+[![](https://visitcount.itsvg.in/api?id=app-track-00&label=Repo%20Views&color=12&icon=9&pretty=false)](https://visitcount.itsvg.in)
